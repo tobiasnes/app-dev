@@ -1,4 +1,4 @@
-# app-dev
+# app-dev-tobias
 
 Examples and templates used for course 
 [IDATA2306 Application development](https://www.ntnu.edu/studies/courses/IDATA2306)
